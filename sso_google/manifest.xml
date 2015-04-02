@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest>
+<field key="name" value="Google Sign in"/>
+<field key="id" value="sso_google"/>
+<field key="author" value="Siva Kumar Edupuganti"/>
+<field key="version" value="1.7"/>
+<field key="description" value="Adds a page that prints Hello world."/>
+<field key="copyright" value="(C) Siva Kumar 2015-2016"/>
+<field key="licence" value="GNU Public License version 2"/>
+<field key="elgg_version" value="2010030101"/>
+</plugin_manifest>
